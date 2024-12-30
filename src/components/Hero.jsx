@@ -19,7 +19,7 @@ function Hero() {
           <h1 className="text-3xl font-secondary mb-4 text-white font-bold md:w-3/5">
             Start Your Journey to Mental Wellness
           </h1>
-          <p className="text-lg mb-12 pr-8 text-black
+          <p className="text-lg mb-12 pr-8 text-pink-300
             ">
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus
             cumque molestiae earum soluta exercitationem dolorum laborum dolorem
